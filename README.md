@@ -39,6 +39,27 @@
 
 ###
 
+<h2 align="left">🏆 Projects I'm Proud Of</h2>
+
+###
+
+<div align="left">
+
+🔹 <a href="https://connectify-chat-video-calls.onrender.com" target="_blank"><strong>Connectify — Real-Time Video & Chat App</strong></a><br>
+A full-fledged real-time video conferencing and chat application built using <strong>MERN stack</strong>.Designed with simplicity and reliability in mind, it supports 1-on-1 and group calls, real-time messaging, and dynamic Community generation — all in the browser.<br>
+🌐 <i>Think Zoom meets minimal UX — fully browser-based and peer-to-peer.</i>
+
+<br><br>
+
+🔹 <a href="https://ayushhhjaiswal.github.io/Weather-App/" target="_blank"><strong>Global Weather Forecast App</strong></a><br>
+A sleek, responsive weather app using <strong>OpenWeatherMap API</strong> and <strong>vanilla JS</strong>. It fetches real-time data including temperature, humidity, and sky conditions based on user location or custom search.<br>
+📱 <i>Designed as an MVP to focus on API integration, UX responsiveness, and minimalist interface.</i>
+
+</div>
+
+
+###
+
 <h2 align="center">💡 "Code is like humor. When you have to explain it, it’s bad." — Cory House</h2>
 
 ###
