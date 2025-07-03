@@ -45,9 +45,11 @@
 
 <div align="left">
 
-🔹 <a href="https://connectify-chat-video-calls.onrender.com" target="_blank"><strong>Connectify — Real-Time Video & Chat App</strong></a><br>
-A full-fledged real-time video conferencing and chat application built using <strong>MERN stack</strong>.Designed with simplicity and reliability in mind, it supports 1-on-1 and group calls, real-time messaging, and dynamic Community generation — all in the browser.<br>
-🌐 <i>Think Zoom meets minimal UX — fully browser-based and peer-to-peer.</i>
+🔹 <a href="https://connectify-chat-video-calls.onrender.com" target="_blank"><strong>Connectify — Real-Time Video, Chat & AI Platform</strong></a><br>
+A full-fledged real-time video conferencing and chat application built using the <strong>MERN stack</strong>. Designed with simplicity and reliability in mind, it supports 1-on-1 and group calls, real-time messaging, and dynamic Community generation — all in the browser.<br>
+🧠 Now powered with <strong>context-aware conversational AI</strong> for smart, seamless interactions — including real-time, token-streamed replies and personalized engagement.<br>
+🌐 <i>Think Zoom meets minimal UX — now enhanced with AI intelligence, fully browser-based and peer-to-peer.</i>
+
 
 <br><br>
 
