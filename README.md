@@ -46,25 +46,28 @@
 
 <div align="left">
 
-🔹 <a href="https://connectify-chat-video-calls.onrender.com" target="_blank"><strong>Connectify — Real-Time Video, Chat & AI Platform</strong></a><br>
-A full-fledged real-time video conferencing and chat application built using the <strong>MERN stack</strong>. Designed with simplicity and reliability in mind, it supports 1-on-1 and group calls, real-time messaging, and dynamic Community generation — all in the browser.<br>
-🧠 Now powered with <strong>context-aware conversational AI</strong> for smart, seamless interactions — including real-time, token-streamed replies and personalized engagement.<br>
-🌐 <i>Think Zoom meets minimal UX — now enhanced with AI intelligence, fully browser-based and peer-to-peer.</i>
 
-<br><br>
+🔹 <a href="https://code-nest-chi.vercel.app" target="_blank"><strong>💻 CodeNest — AI-Powered Online Code Editor</strong></a><br>
+A modern, full-stack code editor built with <strong>Next.js</strong>, <strong>Convex</strong>, and <strong>Clerk Auth</strong>, offering real-time code execution, personalized themes, and error debugging powered by AI.<br>
+🤖 Features AI-assisted error explanations, Monaco Editor, and code execution via Piston API — all in the browser.<br>
+🌐 <i>Think of it as your personal coding sandbox — responsive, intelligent, and built for learning fast.</i>
+
+
+<br>
 
 🔹 <a href="https://splitr-split-expenses.vercel.app/" target="_blank"><strong>💸 Splitr — Smart Expense Sharing Platform</strong></a><br>
 A sleek AI-powered app built with <strong>Next.js</strong>, <strong>Convex</strong>, and <strong>Clerk</strong> for splitting group expenses. Features smart reminders (via Resend), personalized financial insights (Gemini AI), and real-time tracking with stunning UI.<br>
 📱 <i>Designed to simplify shared payments with automation, intelligence, and beautiful UX.</i>
 
+<br>
 
-<br><br>
-
-🔹 <a href="https://ayushhhjaiswal.github.io/Weather-App/" target="_blank"><strong>Global Weather Forecast App</strong></a><br>
-A sleek, responsive weather app using <strong>OpenWeatherMap API</strong> and <strong>vanilla JS</strong>. It fetches real-time data including temperature, humidity, and sky conditions based on user location or custom search.<br>
-📱 <i>Designed as an MVP to focus on API integration, UX responsiveness, and minimalist interface.</i>
+🔹 <a href="https://connectify-chat-video-calls.onrender.com" target="_blank"><strong>Connectify — Real-Time Video, Chat & AI Platform</strong></a><br>
+A full-fledged real-time video conferencing and chat application built using the <strong>MERN stack</strong>. Designed with simplicity and reliability in mind, it supports 1-on-1 and group calls, real-time messaging, and dynamic Community generation — all in the browser.<br>
+🧠 Now powered with <strong>context-aware conversational AI</strong> for smart, seamless interactions — including real-time, token-streamed replies and personalized engagement.<br>
+🌐 <i>Think Zoom meets minimal UX — now enhanced with AI intelligence, fully browser-based and peer-to-peer.</i>
 
 </div>
+
 
 
 ###
